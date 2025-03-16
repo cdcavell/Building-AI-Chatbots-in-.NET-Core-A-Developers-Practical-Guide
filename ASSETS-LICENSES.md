@@ -44,7 +44,17 @@
 
 <br />
 
-## 5. jQuery
+## 5. Serilog
+- **Name:** Serilog
+- **Website:** https://serilog.net/
+- **License:** Apache License 2.0
+- **License Text:** https://github.com/serilog/serilog/blob/dev/LICENSE
+- **Copyright:** © 2013–2024 Serilog Contributors
+> Note: Serilog is used as the primary structured logging framework within the .NET Core MVC application to provide flexible and high-performance logging capabilities.
+
+<br />
+
+## 6. jQuery
 - **Name:** jQuery
 - **Website:** https://jquery.com/
 - **License:** MIT License
@@ -53,7 +63,7 @@
 
 <br />
 
-## 6. Bootstrap
+## 7. Bootstrap
 - **Name:** Bootstrap
 - **Website:** https://getbootstrap.com/
 - **License:** MIT License
