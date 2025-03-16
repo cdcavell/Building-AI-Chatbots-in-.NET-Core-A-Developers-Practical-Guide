@@ -1,5 +1,5 @@
-﻿# 🛠️ Common Issues During Development
-### This file covers common issues that developers may encounter during the development and deployment of the .NET Core MVC application. The issues are categorized based on the development environment, application configuration, and deployment settings.
+﻿# 🛠️ Issues Encountered During Development
+### This file covers issues that were encountered during the development and deployment of the .NET Core MVC application. The issues are categorized based on the development environment, application configuration, and deployment settings.
 
 <hr />
 
@@ -25,5 +25,9 @@ To avoid seeing these handled exceptions:
 >[Just My Code - Visual Studio](https://learn.microsoft.com/en-us/visualstudio/debugger/just-my-code?view=vs-2022)
 
 Once enabled, the debugger will **only break on exceptions in your own code**, making the debugging experience much clearer.
+
+🤖 Note
+
+_Resolution of this issue was assisted using **[GitHub Copilot in Visual Studio](https://visualstudio.microsoft.com/github-copilot/)**, which provided contextual insights and recommendations during troubleshooting._
 
 <hr />
