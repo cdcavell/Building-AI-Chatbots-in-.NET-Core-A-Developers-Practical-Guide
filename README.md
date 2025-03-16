@@ -3,10 +3,14 @@
 
 <hr />
 
-**_This work is [licensed](/LICENSE) under the [MIT License](https://opensource.org/licenses/MIT). Assets are licensed under their respective [licensing](/ASSETS-LICENSES.md)_**.
+**_This work is [licensed](/LICENSE) under the [MIT License](https://opensource.org/licenses/MIT). Assets are licensed under their respective [licensing](/ASSETS-LICENSES.md)._**
 
 <hr />
 
-**_Issues and resolutions, encountered during development, are documented [here](/DEVELOPMENT-ISSUES.md)_**.
+**_Issues and resolutions, encountered during development, are documented [here](/DEVELOPMENT-ISSUES.md)._**
+
+<hr />
+
+**_A deep dive audio overiew into development can be found [here](https://notebooklm.google.com/notebook/0a1c1edb-b6b1-4b90-a646-bb3e94f417cd/audio)._**
 
 <hr />
