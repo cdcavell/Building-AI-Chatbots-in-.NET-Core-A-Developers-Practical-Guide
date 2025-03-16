@@ -1,5 +1,5 @@
 # 📜 ASSETS LICENSES
-#### This file provides attribution and license details for all third-party libraries, frameworks, and external resources included or referenced within this project.
+### This file provides attribution and license details for all third-party libraries, frameworks, and external resources included or referenced within this project.
 
 <hr />
 

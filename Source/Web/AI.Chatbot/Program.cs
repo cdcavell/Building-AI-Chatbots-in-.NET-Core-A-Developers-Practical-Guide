@@ -31,7 +31,8 @@ try
 }
 catch (Exception ex)
 {
-    Log.Fatal(ex, "Unhandled exception");
+    Log.Fatal(ex, "Unhandled exception: {Message}", ex.Message);
+    throw; // Re-throw the exception to ensure it is not swallowed
 }
 finally
 {
