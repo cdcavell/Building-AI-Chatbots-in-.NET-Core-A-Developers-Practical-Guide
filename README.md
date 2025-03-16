@@ -7,6 +7,6 @@
 
 <hr />
 
-**_Common issues and resolutions, encountered during development, are documented [here](/COMMON-ISSUES.md)_**.
+**_Issues and resolutions, encountered during development, are documented [here](/COMMON-ISSUES.md)_**.
 
 <hr />
