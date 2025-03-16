@@ -78,4 +78,4 @@ All trademarks and copyrights are the property of their respective owners.
 This project uses external libraries and AI-assisted tools under their respective licenses for the purpose of educational and developmental work accompanying the book.
 > Disclaimer: Some proprietary tools (e.g., Visual Studio 2022) are referenced for development purposes only and are not distributed within this repository. Please ensure you comply with all applicable license agreements when using these tools.
 
-<hr />
+
