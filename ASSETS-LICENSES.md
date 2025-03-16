@@ -23,17 +23,28 @@
 
 <br />
 
-## 3. Microsoft .NET Core
+## 3. Microsoft .NET Core (Including ASP.NET Core MVC Framework)
 - **Name:** .NET Core (Microsoft)
 - **Website:** https://dotnet.microsoft.com/
 - **License:** MIT License
 - **License Text:** https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
 - **Copyright:** © Microsoft Corporation
-> Note: .NET Core is used for application development and runtime functionality in this project.
+> Note: .NET Core, including the ASP.NET Core MVC framework, is used for application development and runtime functionality in this project.
 
 <br />
 
-## 4. jQuery
+
+## 4. Microsoft Visual Studio 2022
+- **Name:** Microsoft Visual Studio 2022
+- **Website:** https://visualstudio.microsoft.com/vs/
+- **License/Terms of Use:** Subject to [Microsoft Visual Studio License Terms](https://visualstudio.microsoft.com/license-terms/) and [Microsoft Software License Terms](https://learn.microsoft.com/en-us/legal/mdsa) for Visual Studio products.
+- **Edition Used:** Community Edition
+- **Copyright:** © Microsoft Corporation
+> Note: Microsoft Visual Studio 2022 is used as the primary Integrated Development Environment (IDE) for developing the .NET Core MVC application accompanying this book. Visual Studio is a proprietary software product licensed under Microsoft's terms and is not distributed within this repository.
+
+<br />
+
+## 5. jQuery
 - **Name:** jQuery
 - **Website:** https://jquery.com/
 - **License:** MIT License
@@ -42,7 +53,7 @@
 
 <br />
 
-## 5. Bootstrap
+## 6. Bootstrap
 - **Name:** Bootstrap
 - **Website:** https://getbootstrap.com/
 - **License:** MIT License
