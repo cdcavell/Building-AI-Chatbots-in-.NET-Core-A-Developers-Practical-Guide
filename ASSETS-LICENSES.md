@@ -68,7 +68,7 @@
 - **Website:** https://getbootstrap.com/
 - **License:** MIT License
 - **License Text:** https://github.com/twbs/bootstrap/blob/main/LICENSE
-- **Copyright:** © 2011–2024 Twitter, Inc. and The Bootstrap Authors
+- **Copyright:** © 2011-2025 The Bootstrap Authors
 
 
 <hr />
