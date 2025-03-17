@@ -11,6 +11,6 @@
 
 <hr />
 
-**_A deep dive audio overiew into development can be found [here](https://notebooklm.google.com/notebook/0a1c1edb-b6b1-4b90-a646-bb3e94f417cd/audio)._**
+**_A deep dive audio overview into development can be found [here](https://notebooklm.google.com/notebook/0a1c1edb-b6b1-4b90-a646-bb3e94f417cd/audio)._**
 
 <hr />
