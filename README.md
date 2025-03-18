@@ -14,3 +14,8 @@
 **_A deep dive audio overview into development can be found [here](https://notebooklm.google.com/notebook/0a1c1edb-b6b1-4b90-a646-bb3e94f417cd/audio)._**
 
 <hr />
+
+## Donation ##
+You can show your support for this project by making a donation via PayPal
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=96LQH846TE2E2)
