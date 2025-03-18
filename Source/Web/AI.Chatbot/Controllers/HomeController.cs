@@ -1,31 +1,20 @@
-using System.Diagnostics;
+﻿using ClassLibrary.Mvc.Services.AppSettings;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using AI.Chatbot.Models;
 
-namespace AI.Chatbot.Controllers;
-
-public class HomeController : Controller
+namespace AI.Chatbot.Controllers
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    public class HomeController(
+        ILogger<HomeController> logger,
+        IAppSettingsService appSettingsService
+    ) : ApplicationBaseController<HomeController>(logger, appSettingsService)
     {
-        _logger = logger;
-    }
-
-    public IActionResult Index()
-    {
-        return View();
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        [HttpGet("/")]
+        [HttpGet("Home")]
+        [HttpGet("Home/Index")]
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }

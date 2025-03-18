@@ -5,10 +5,39 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>b08a11e8-cbd2-44ff-87b3-aef2c175e25d</UserSecretsId>
+    <PrepareForBuildDependsOn>
+	  BundleMinify;$(PrepareForBuildDependsOn)
+    </PrepareForBuildDependsOn>
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\css\common\bootstrap-extensions.css" />
+    <Content Remove="wwwroot\css\common\preloader.css" />
+    <Content Remove="wwwroot\js\common\ajax.js" />
+    <Content Remove="wwwroot\js\common\toasts.js" />
+    <Content Remove="wwwroot\js\common\utilities.js" />
+    <Content Remove="wwwroot\js\common\waitNoWait.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BuildBundlerMinifier2022" Version="2.9.11" />
     <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\common\bootstrap-extensions.css" />
+    <None Include="wwwroot\js\common\ajax.js" />
+    <None Include="wwwroot\js\common\toasts.js" />
+    <None Include="wwwroot\js\common\utilities.js" />
+    <None Include="wwwroot\js\common\waitNoWait.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\common\preloader.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\ClassLibrary.Mvc\ClassLibrary.Mvc.csproj" />
   </ItemGroup>
 
 </Project>
