@@ -15,7 +15,3 @@
 
 <hr />
 
-## Donation ##
-You can show your support for this project by making a donation via PayPal
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=96LQH846TE2E2)
