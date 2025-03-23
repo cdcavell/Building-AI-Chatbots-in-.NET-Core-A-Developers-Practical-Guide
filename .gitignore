@@ -20,6 +20,7 @@ Source/Xml/*.json
 Source/Xml/*.dll
 
 # Build results
+[Bb]ook/
 [Dd]ata/
 [Pp]ublish/
 [Dd]ebug/

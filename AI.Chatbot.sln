@@ -19,6 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.Chatbot", "Source\Web\AI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Mvc", "Source\Libraries\ClassLibrary.Mvc\ClassLibrary.Mvc.csproj", "{CDE3BE1D-32C4-CB6A-761E-DAA85F159B19}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Book", "Book", "{9163B9EC-BC3A-4565-BED1-A42042635CFF}"
+	ProjectSection(SolutionItems) = preProject
+		Book\Building AI Chatbots in .NET Core - A Developer’s Practical Guide.docx = Book\Building AI Chatbots in .NET Core - A Developer’s Practical Guide.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
