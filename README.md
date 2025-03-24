@@ -11,7 +11,8 @@
 
 <hr />
 
-**_Deep dive audio overviews into book and development_**
+**_[Deep dive audio overviews podcast into book and development](https://www.youtube.com/playlist?list=PLKHmzsASB8BrmWN2kWLmMpzJ3SdWoTHOg)_**
+<br />**_Chapters:_**
 <br />_[Introduction](https://www.youtube.com/watch?v=RAFxWQAQQGs)_
 
 <hr />
